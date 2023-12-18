@@ -6,7 +6,7 @@ This project involves the creation of an AI for playing Connect Four, with the i
 ## Key Components
 
 ### Board Representation (`Board.java`)
-A class that models the Connect Four game board. It uses a 2D byte array for efficient memory usage and includes methods for board manipulation and game state evaluation.
+A class that models the Connect Four game board, uses a 2D byte array for efficient memory usage and includes methods for board manipulation and game state evaluation.
 
 ### Game Mechanics (`Player.java`, `GameState.java`)
 Enums to define player roles (MAX and MIN) and game states (in progress, win, loss, tie), central to the game's logic.

@@ -1,4 +1,4 @@
-# Project Description: Connect Four AI using Minimax and Alpha-Beta Pruning in Java
+# Connect Four AI using Minimax and Alpha-Beta Pruning in Java
 
 ## Overview
 This project involves the creation of an AI for playing Connect Four, with the implementation of advanced algorithms such as minimax with alpha-beta pruning, and a added heuristic. The goal is to demonstrate proficiency in algorithm design, game theory, and Java programming.
